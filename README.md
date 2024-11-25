@@ -1,6 +1,7 @@
  😄 Hi, my name is Adriana Rincon!  
  ✨ I'm a senior at Boston University studying Computer Science  
  📫 LinkedIn: www.linkedin.com/in/adriana-rincon/  
+ 💬 arincon@bu.edu
 
 <!--
 **adririncon/adririncon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
